@@ -1,6 +1,8 @@
 # DiceRoller
 Sebuah aplikasi yang mensimulasikan dadu bersisi 6, tetapi dengan 2 dadu.
 
+https://developer.android.com/courses/pathways/android-basics-kotlin-four
+
 ## Screenshots
 <img src="assets/DiceRoller1.png"
 width="256">&nbsp;&nbsp;&nbsp;
